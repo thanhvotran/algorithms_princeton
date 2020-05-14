@@ -18,3 +18,5 @@ system dependent effects again!. and hardware
 **in practice** formulas can be complicated and advanced mathematics might be required, and we r going to use APPROXIMATE models in here
 
 
+
+
